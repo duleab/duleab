@@ -1,4 +1,4 @@
-﻿
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=54a0ff&height=200&section=header&text=Dule%20Abera&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
@@ -84,10 +84,7 @@
 </div>
 
 
-## ðŸ“ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 ## ðŸ“ˆ Activity Graph
