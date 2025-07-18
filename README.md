@@ -21,7 +21,7 @@
 </div>
 
 
-## ðŸ“Š GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duleab&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -33,7 +33,7 @@
 </div>
 
 
-## ðŸ’» Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
   
@@ -70,14 +70,14 @@
 </div>
 
 
-## ðŸŽµ Currently Playing
+## 🎵 Currently Playing
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&limit=1" alt="Spotify Now Playing" />
 </div>
 
 
-## â° Weekly Development Breakdown
+## ⏰ Weekly Development Breakdown
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=duleab&theme=dark&hide_border=true&layout=compact" alt="WakaTime Stats" />
@@ -87,15 +87,14 @@
 
 
 
-## ðŸ“ˆ Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=duleab&theme=dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 
-## ðŸ Contribution Snake
-
+## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/duleab/duleab/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
