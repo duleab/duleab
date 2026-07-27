@@ -19,7 +19,6 @@ I'm a passionate **AI/ML Developer** and **Data Scientist** with a deep love for
 
 <div align="center">
   
-###  "Data is the new oil, but insights are the refined fuel that powers innovation"
 
 </div>
 
